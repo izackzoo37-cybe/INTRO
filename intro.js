@@ -1,0 +1,1 @@
+console.log("NAME: ISAC, AGE: 19 , FOUVORITE LANGUAGE : JS")
