@@ -1,0 +1,25 @@
+{
+  "name": "project-zoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "node server.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izackzoo37-cybe/INTRO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/izackzoo37-cybe/INTRO/issues"
+  },
+  "homepage": "https://github.com/izackzoo37-cybe/INTRO#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
